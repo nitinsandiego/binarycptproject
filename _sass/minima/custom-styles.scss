@@ -1,27 +1,192 @@
 /*-----------------------------------*/
-/*--- IMPORT STYLES FOR Mortpages ---*/
-@import "minima/Nighthawkpages-styles";   
-
-/*-----------------------------------*/
 /*--- CUSTOM STYLES FOR Nighthawkpages ---*/
-// Uncomment out the following themes to use them 
+/*--- Racing Theme Modifications ---*/
 
-// @import "minima/hacker/jekyll-theme-hacker"; //Hacker theme 
-// @import "minima/minimal-mistakes"; //Minimal Mistakes theme 
-// @import "minima/monophase/main"; //Monophase theme 
-// @import "minima/leaf/_leaf";  //Leaf theme 
-// @import "minima/hamilton/main"; //Hamilton theme
-
-/*-----------------------------------*/
-/*----- ADD YOUR STYLES BELOW -------*/
-
-// If you want to turn off dark background for syntax highlighting, comment or delete the below line.
-// If you want to use dark themes uncomment out the following lines
-@import "minima/Nighthawkpages-dracula-highlight"; 
-@import "minima/Dark_Mode"; // Dracula Highlight recommended for dark mode
-
-// FOR HAMILTON
-// @import "minima/hamilton/skins/daylight";
-// @import "minima/hamilton/skins/midnight";
-// @import "minima/hamilton/skins/sunrise";
-// @import "minima/hamilton/skins/sunset"
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #000000; /* Dark background for a sleek look */
+    color: white;
+    background-image: url('https://wallpaperaccess.com/full/268067.jpg'); 
+  }
+  
+  
+  header, footer {
+    background-color: #21d227; 
+    color: white; /* White text for contrast and readability */
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  /* Styling for header and footer text */
+  header h1, footer h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+    color: #ffffff; /* White color for text */
+    text-shadow: 2px 2px 2px #000; /* Text shadow for better readability */
+  }
+  
+  /* Additional styling for navigation links, if applicable */
+  header nav a, footer nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+  }
+  
+  
+  /* Speed Blur Effect for Titles */
+  h1 {
+    font-size: 36px;
+    color: #ffffff; /* Black for main headings */
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+    animation: blur-motion 1s infinite alternate;
+  }
+  
+  h2 {
+    font-size: 30px;
+    color: #ffffff;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+    animation: blur-motion 1s infinite alternate;
+  }
+  
+  p {
+    font-size: 20px;
+    color: #000000;
+    background-color: rgba(255, 255, 255, 0.9); /* 50% transparent black background */
+    padding: 10px; /* Add padding for better readability */
+    border-radius: 5px; /* Optional: rounded corners */
+  }
+  
+  
+  li {
+    font-size: 15px;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.75); /* 50% transparent black background */
+    padding: 10px; /* Add padding for better readability */
+    border-radius: 5px; /* Optional: rounded corners */
+  }
+  
+  @keyframes blur-motion {
+    from {
+        text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+    }
+    to {
+        text-shadow: 8px 8px 10px rgba(0, 0, 0, 0.5);
+    }
+  }
+  
+  /* Dynamic Hover Effects for Links */
+  a, a:hover {
+    font-family: 'Roboto', sans-serif;
+    color: #000000; /* Black for links */
+    text-decoration: underline;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  a:hover {
+    color: #000000; /* Yellow on hover */
+  }
+  
+  /* Table Styling */
+  th {
+    background-color: #ffffff; /* Dark grey for table headers */
+  }
+  
+  tbody, td, tr, table {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff; /* Medium grey for table backgrounds */
+  }
+  
+  /* Dashboard-like Elements */
+  .dashboard-style {
+    font-family: 'Digital-7', monospace; /* Digital font */
+    color: #000000; /* Green like dashboard lights */
+  }
+  
+  /* Grid Layout for Sections */
+  .grid-layout {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  
+  .button-race {
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button-race:hover {
+    background-color: #ffffff;
+    color: black;
+  }
+  
+  label {
+    font-size: 14px;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.9);
+  }
+  
+  div23 {
+    color:#000000;
+    background-color: rgba(255, 255, 255, 0.9);
+  }
+  
+  #puzzle-container {
+    display: grid;
+    grid-template-columns: repeat(6, 50px); /* Example for 6x6 grid */
+    grid-gap: 5px;
+  }
+  
+  .puzzle-cell {
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    font-size: 20px;
+    color: white; /* Set text color to white */
+    background-color: #000000;
+  }
+  
+  #timer {
+    font-size: 20px;
+    color: white;
+  }
+  
+  #output {
+    margin-top: 20px;
+  }
+  
+  div44 {
+    font-size: 20px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.9);
+  }
+  
+  textarea, #binaryOutput {
+    width: 80%;
+    margin-bottom: 10px;
+  }
+  
+  #binaryOutput {
+    white-space: pre-wrap;
+    background-color: #000000;
+    padding: 10px;
+    color: white;
+    font-size: 17px;
+    border: 1px solid #000000;
+  }
+  
+  /*-----------------------------------*/
+  /*----- ADD YOUR STYLES BELOW -------*/
+  
