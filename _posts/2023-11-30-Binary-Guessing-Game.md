@@ -19,6 +19,8 @@ courses: {'compsci': {'week': 1}}
         <p id="targetNumber"></p>
         <input type="text" id="userGuess" placeholder="Enter your binary guess" pattern="^[0-1]{1,8}$" maxlength="8"/>
         <button onclick="makeAGuess()">Guess</button>
+        <br>
+        <button onclick="restartGame()">Play Again</button> <!-- New button for restarting the game -->
     </div>
     <div23 id="output"></div23>
     <script>
@@ -37,6 +39,18 @@ courses: {'compsci': {'week': 1}}
         }
         function displayTargetNumber() {
             targetNumberDiv.innerText = `Number: ${secretDecimal}`;
+        }
+        function restartGame() {
+        // Reset variables
+        minValue = 0;
+        maxValue = 255;
+        secretDecimal = generateRandomDecimal(minValue, maxValue);
+        secretBinary = decimalToBinary(secretDecimal);
+        attempts = 0;
+        // Update display
+        displayTargetNumber();
+        outputDiv.innerHTML = "";
+        document.getElementById('userGuess').value = ""; // Clear the input field
         }
         function makeAGuess() {
             var playerGuess = document.getElementById('userGuess').value;
