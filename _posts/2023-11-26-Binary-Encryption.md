@@ -65,8 +65,6 @@ courses: {'compsci': {'week': 1}}
 
         // Convert the encrypted binary to letters
         var encryptedText = encryptedResult.toLowerCase().replace(/\s+/g, "");
-        console.log(userGuess.toLowerCase().replace(/\s+/g, ""));
-        console.log(encryptedText);
         if (userGuess.toLowerCase().replace(/\s+/g, "") === encryptedText) {
             resultDisplay.innerText = "Correct! You guessed the encryption!";
         } else {
