@@ -133,13 +133,14 @@ Improvements:
 ```
 
 ## Key Points
-- Binary Representation with image pixals
-- Switch modes (black and white) etc
-- User can apply one image to go to original etc
+    - Binary Representation with image pixals
+    - Switch modes (black and white) etc
+    - User can apply one image to go to original etc
+    
 ## Possible Improvements
-- Work on image adjustment
-- resizing
-- more elements for the feature
+    - Work on image adjustment
+    - resizing
+    - more elements for the feature
 
 [Website](https://nitinsandiego.github.io/binarycptproject//2023/11/26/Binary-Image-Processing.html)
 
