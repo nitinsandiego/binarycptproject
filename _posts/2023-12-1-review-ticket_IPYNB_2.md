@@ -1,6 +1,7 @@
 ---
 hide: False
 toc: False
+comments: True
 layout: notebook
 title: Review Ticket
 description: Review Ticket
