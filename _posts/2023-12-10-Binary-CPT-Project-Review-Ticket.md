@@ -364,6 +364,12 @@ Your browser does not support the video tag.
 - Feedback is provided to the user, indicating whether the guess is correct or if they need to go higher or lower.
 - The number of attempts is updated accordingly.
 
+This HTML document implements a Binary Number Guessing Game. It consists of structural HTML elements like `<html>`, `<head>`, and `<body>`. Game elements include `<h1>`, `<p>`, `<input>`, and `<button>`, with a specific focus on guessing binary numbers from 0 to 255.
+
+JavaScript manages variables such as minValue, maxValue, secretDecimal, and attempts. Functions include generating random decimals, converting decimals to binary, displaying the target number, restarting the game, and processing user guesses. An event listener displays the target number on page load.
+
+The game flow involves users guessing binary numbers, receiving feedback, and restarting until the correct guess is made.
+
 # Saatvik's Feature video
 <video  height="500" controls>
   <source src="/binarycptproject/videos/BinaryEncryption.mp4" type="video/mp4">
