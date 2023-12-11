@@ -79,7 +79,7 @@ Input 2:  11001100<br>
 -----------------<br>
 Result:   10001000<br>
 <br>
-In this example, only the third and seventh bits have 1s in both inputs, so the AND operation results in "10001000."
+In this example, only the third and seventh bits have 1's in both inputs, so the AND operation results in "10001000."
 
 ## Or Example
 The OR operation compares each pair of corresponding bits in the two binary numbers. The result has a 1 in a particular bit position if at least one of the input bits in that position is 1.
