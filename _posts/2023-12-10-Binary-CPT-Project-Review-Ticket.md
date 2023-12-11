@@ -8,11 +8,14 @@ description: Binary CPT Project Review Ticket
 type: tangibles
 courses: {'compsci': {'week': 2}}
 ---
+# Utterance Grading is at the bottom of the page
 
 | Crossover Score | Feature 1 | Feature 2 | Feature 3 | Feature 4 | GitHub | Analytics |
 | TBD | [Binary Image Processing](https://nitinsandiego.github.io/binarycptproject//2023/11/26/Binary-Image-Processing.html) | [Binary Logical Operators](https://nitinsandiego.github.io/binarycptproject//2023/11/28/Binary-Logical-Operations.html) | [Binary Encryption ](https://nitinsandiego.github.io/binarycptproject//2023/11/26/Binary-Encryption.html) | [Binary Number Guessng Game](https://nitinsandiego.github.io/binarycptproject//2023/11/30/Binary-Guessing-Game.html) | [BinaryCPT Project Repository](https://github.com/nitinsandiego/binarycptproject) | [Deployments](https://github.com/nitinsandiego/binarycptproject/deployments)
 
 # Nitin's Feature video
+| Name | Team+Indi+Teacher | Runtime | Issues | Key Commit(s) | Analytics |
+| Nitin B | TBD | [Binary Calculator](https://nighthawkcoders.github.io/teacher_portfolio//c4.4/2023/09/14/javascript-binary-U2-1.html) | [CORS example](https://github.com/nighthawkcoders/flask_portfolio/issues/42#issuecomment-1847595229) | [SASS buttons](https://github.com/nighthawkcoders/teacher_portfolio/commit/f43211b97d4d50e79cf15d6ae470c0fef241dfc5), [Binary Source](https://raw.githubusercontent.com/nighthawkcoders/teacher_portfolio/bf145ebe8113f0e009494ed736324aa276b8913b/_posts/2023-09-14-javascript-binary-U2-1.md) | [Commits](https://github.com/nighthawkcoders/teacher_portfolio/commits?author=jm1021), [Profile](https://github.com/jm1021)|
 <video  height="500" controls>
     <source src="/binarycptproject/videos/BinaryImageProcessing.mp4" type="video/mp4">
     Your browser does not support the video tag.
