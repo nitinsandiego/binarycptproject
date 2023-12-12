@@ -29,7 +29,7 @@ courses: {'compsci': {'week': 2}}
     <tbody>
         <tr>
             <td>Name</td>
-            <td>Team+Indi+Teacher</td>
+            <td>Team+Indi Score</td>
             <td>Feature</td>
             <td>Feature Demo</td>
             <td>Analytics</td>
