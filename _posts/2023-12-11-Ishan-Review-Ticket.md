@@ -102,3 +102,16 @@ This HTML document implements a Binary Number Guessing Game. It consists of stru
 JavaScript manages variables such as minValue, maxValue, secretDecimal, and attempts. Functions include generating random decimals, converting decimals to binary, displaying the target number, restarting the game, and processing user guesses. An event listener displays the target number on page load.
 
 The game flow involves users guessing binary numbers, receiving feedback, and restarting until the correct guess is made.
+
+## If I had more time
+If I had more time I would add....
+    A bigger range of number.
+    More friendly UI.
+    Include more features in the game.
+    Have an intro that shows how binary works.
+
+## Problems I came accross
+    My "Play Again" button wouldnt work, fixed this with help of my classmates, teammates and internet.
+    Figuring out how to calculate the binary value, to do this I used the help of ChatGPT.
+    Figuring about how to max the amount of characters to be added, ChatGPT helped a lot for that.
+    
