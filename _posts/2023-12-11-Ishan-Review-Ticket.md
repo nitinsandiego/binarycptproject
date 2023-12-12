@@ -104,7 +104,8 @@ JavaScript manages variables such as minValue, maxValue, secretDecimal, and atte
 The game flow involves users guessing binary numbers, receiving feedback, and restarting until the correct guess is made.
 
 ## If I had more time
-If I had more time I would add....
+
+    If I had more time I would add....
 
     A bigger range of number.
 
@@ -115,7 +116,10 @@ If I had more time I would add....
     Have an intro that shows how binary works.
 
 ## Problems I came accross
+
     My "Play Again" button wouldnt work, fixed this with help of my classmates, teammates and internet.
+
     Figuring out how to calculate the binary value, to do this I used the help of ChatGPT.
+    
     Figuring about how to max the amount of characters to be added, ChatGPT helped a lot for that.
     
