@@ -32,7 +32,6 @@ courses: {'compsci': {'week': 2}}
             <td>Team+Indi+Teacher</td>
             <td>Feature</td>
             <td>Feature Demo</td>
-            <td>Key Commit(s)</td>
             <td>Analytics</td>
         </tr>
         <tr>
@@ -43,7 +42,6 @@ courses: {'compsci': {'week': 2}}
             <source src="/binarycptproject/videos/BinaryImageProcessing.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video></td>
-            <td><a href="https://github.com/nitinsandiego/binarycptproject/commit/412936d8051c934b6b2c65a11c3cd9da9a3ae4b0">Binary Image Processing</a></td>
             <td><a href="https://github.com/nitinsandiego">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=nitinsandiego">Workflow</a></td>
         </tr>
         <tr>
@@ -53,7 +51,6 @@ courses: {'compsci': {'week': 2}}
             <td><video  height="200" controls><source src="/binarycptproject/videos/Binary_Logical_Operators.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video></td>
-            <td><a href="https://github.com/nitinsandiego/binarycptproject/commit/0fd32e06d8b8a5499c574f92bad6babef433850f">Binary Logical Operators</a></td>
             <td><a href="https://github.com/AkshayNagesh">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=AkshayNagesh">Workflow</a></td>
         </tr>
         <tr>
@@ -64,7 +61,6 @@ courses: {'compsci': {'week': 2}}
             <source src="/binarycptproject/videos/BinaryNumberGuessingGame.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video></td>
-            <td>Error</td>
             <td><a href="https://github.com/IshanCornick">Profile</a></td>
         </tr>
         <tr>
@@ -75,7 +71,6 @@ courses: {'compsci': {'week': 2}}
             <source src="/binarycptproject/videos/BinaryNumberGuessingGame.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video></td>
-            <td>Error</td>
             <td><a href="https://github.com/SGTech08">Profile</a></td>
         </tr>
     </tbody>
