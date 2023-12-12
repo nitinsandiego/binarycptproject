@@ -42,7 +42,6 @@ courses: {'compsci': {'week': 2}}
             <source src="/binarycptproject/videos/BinaryImageProcessing.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video></td>
-            <td><a href="https://nitinsandiego.github.io/binarycptproject/2023/12/10/Nitin-Review-Ticket.html">Individual</a></td>
             <td><a href="https://github.com/nitinsandiego">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=nitinsandiego">Workflow</a></td>
         </tr>
         <tr>
@@ -52,10 +51,6 @@ courses: {'compsci': {'week': 2}}
             <td><video  height="200" controls><source src="/binarycptproject/videos/Binary_Logical_Operators.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video></td>
-<<<<<<< HEAD
-            <td><a href="https://nitinsandiego.github.io/binarycptproject/2023/12/11/Ishan-Review-Ticket.html">Individual</a>">Binary Logical Operators</a></td>
-=======
->>>>>>> 66a59090a09c97e8b7a1619c81930f04b1a564b2
             <td><a href="https://github.com/AkshayNagesh">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=AkshayNagesh">Workflow</a></td>
         </tr>
         <tr>
@@ -66,10 +61,6 @@ courses: {'compsci': {'week': 2}}
             <source src="/binarycptproject/videos/BinaryNumberGuessingGame.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video></td>
-<<<<<<< HEAD
-            <td><a href="https://nitinsandiego.github.io/binarycptproject/2023/12/11/Ishan-Review-Ticket.html">Individual</a></td>
-=======
->>>>>>> 66a59090a09c97e8b7a1619c81930f04b1a564b2
             <td><a href="https://github.com/IshanCornick">Profile</a></td>
         </tr>
         <tr>
@@ -80,10 +71,6 @@ courses: {'compsci': {'week': 2}}
             <source src="/binarycptproject/videos/BinaryNumberGuessingGame.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video></td>
-<<<<<<< HEAD
-            <td><a href=<a href="https://nitinsandiego.github.io/binarycptproject/2023/12/11/Saathvik-Review-Ticket.html">Individual</a></td>
-=======
->>>>>>> 66a59090a09c97e8b7a1619c81930f04b1a564b2
             <td><a href="https://github.com/SGTech08">Profile</a></td>
         </tr>
     </tbody>
