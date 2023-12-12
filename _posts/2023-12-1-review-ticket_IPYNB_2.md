@@ -488,6 +488,81 @@ The HTML file titled "Song to Binary Converter" provides a simple yet effective 
 </html>
 ```
 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Populated 5x5 Table</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 60%;
+            margin: 20px;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h2>Populated 5x5 Table</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Github</th>
+                <th>Video</th>
+                <th>Individual</th>
+                <th>Grade</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Ishan Cornick</td>
+                <td><a href="https://github.com/IshanCornick">IshanCornick</a></td>
+                <td>New York</td>
+                <td>Engineer</td>
+                <td>Engineering</td>
+            </tr>
+            <tr>
+                <td>Nitin Balaji</td>
+                <td><a href="https://github.com/nitinsandiego">nitinsandiego</a></td>
+                <td><video controls>
+                        <source src="/binarycptproject/videos/BinaryImageProcessing.mp4" type="video/mp4">
+                    </video></td>
+                <td>Designer</td>
+                <td>Design</td>
+            </tr>
+            <tr>
+                <td>Saaithvik Gumpa</td>
+                <td><a href="https://github.com/nitinsandiego">nitinsandiego</a></td>
+                <td>Chicago</td>
+                <td>Teacher</td>
+                <td>Education</td>
+            </tr>
+            <tr>
+                <td>Akshay Negesh</td>
+                <td><a href="https://github.com/AkshayNagesh">akshayn1216</a></td>
+                <td>San Francisco</td>
+                <td>Doctor</td>
+                <td>Healthcare</td>
+            </tr>
+            <tr>
+                <td>-----------</td>
+                <td>-----------</td>
+                <td>-----------</td>
+                <td>-----------</td>
+                <td>-----------</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
+
 # Feedback .97/1 Tara's group
 Their sass styling was very good. It was a good balance of stylish while also still being usable and readable. The binary puzzle could have added a description on how to win the puzzle because it was confusing how it worked. The Image processing had a lot of impressive features and he logical operators feature had all the proper features and worked perfectly. The Guessing Game could have had more helpful tips because the number range was very large as it was a byte size range. The song converter was good and correctly convertted song lyrics to binary. Overall, this group did a great job with their features.
 
