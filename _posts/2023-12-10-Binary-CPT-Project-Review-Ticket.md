@@ -13,18 +13,6 @@ courses: {'compsci': {'week': 2}}
 | Crossover Score | Feature 1 | Feature 2 | Feature 3 | Feature 4 | GitHub | Analytics |
 | [0.87](https://github.com/nitinsandiego/binarycptproject/issues/1#issuecomment-1851253390) | [Binary Image Processing](https://nitinsandiego.github.io/binarycptproject//2023/11/26/Binary-Image-Processing.html) | [Binary Logical Operators](https://nitinsandiego.github.io/binarycptproject//2023/11/28/Binary-Logical-Operations.html) | [Binary Encryption ](https://nitinsandiego.github.io/binarycptproject//2023/11/26/Binary-Encryption.html) | [Binary Number Guessng Game](https://nitinsandiego.github.io/binarycptproject//2023/11/30/Binary-Guessing-Game.html) | [BinaryCPT Project Repository](https://github.com/nitinsandiego/binarycptproject) | [Deployments](https://github.com/nitinsandiego/binarycptproject/deployments)
 
-[Nitin's Review Ticket](https://nitinsandiego.github.io/binarycptproject//2023/12/10/Nitin-Review-Ticket.html)
-<br>
-
-[Akshay's Review Ticket](https://nitinsandiego.github.io/binarycptproject//2023/12/11/Akshay-Review-Ticket.html)
-<br>
-
-[Ishan's Review Ticket](https://nitinsandiego.github.io/binarycptproject//2023/12/11/Ishan-Review-Ticket.html)
-<br>
-
-[Saathvik's Review Ticket](https://nitinsandiego.github.io/binarycptproject//2023/12/11/Saathvik-Review-Ticket.html)
-<br>
-
 <table>
     <tbody>
         <tr>
@@ -32,6 +20,7 @@ courses: {'compsci': {'week': 2}}
             <td>Feature</td>
             <td>Feature Demo</td>
             <td>Analytics</td>
+            <td>Individual Review Score</td>
         </tr>
         <tr>
             <td>Nitin Balaji</td>
@@ -41,6 +30,7 @@ courses: {'compsci': {'week': 2}}
             Your browser does not support the video tag.
             </video></td>
             <td><a href="https://github.com/nitinsandiego">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=nitinsandiego">Workflow</a></td>
+            <td><a href="https://github.com/nitinsandiego/binarycptproject/issues/4#issuecomment-1852624579">Score: 0.87</a></td>
         </tr>
         <tr>
           <td>Akshay Nagesh</td>
@@ -49,6 +39,7 @@ courses: {'compsci': {'week': 2}}
             Your browser does not support the video tag.
             </video></td>
             <td><a href="https://github.com/AkshayNagesh">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=AkshayNagesh">Workflow</a></td>
+            <td><a href="https://github.com/nitinsandiego/binarycptproject/issues/3#issuecomment-1852623916">Score: 0.87</a></td>
         </tr>
         <tr>
           <td>Ishan Cornick</td>
@@ -58,6 +49,7 @@ courses: {'compsci': {'week': 2}}
             Your browser does not support the video tag.
             </video></td>
             <td><a href="https://github.com/IshanCornick">Profile</a></td>
+            <td><a href="https://github.com/nitinsandiego/binarycptproject/issues/2#issuecomment-1852623575">Score: 0.79</a></td>
         </tr>
         <tr>
           <td>Saathvik Gampa</td>
@@ -67,6 +59,7 @@ courses: {'compsci': {'week': 2}}
             Your browser does not support the video tag.
             </video></td>
             <td><a href="https://github.com/SGTech08">Profile</a></td>
+            <td><a href="https://github.com/nitinsandiego/binarycptproject/issues/5#issuecomment-1852725276">Score: 0.81</a></td>
         </tr>
     </tbody>
 </table>
