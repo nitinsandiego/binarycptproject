@@ -44,22 +44,42 @@ courses: {'compsci': {'week': 2}}
             Your browser does not support the video tag.
             </video></td>
             <td><a href="https://github.com/nitinsandiego/binarycptproject/commit/412936d8051c934b6b2c65a11c3cd9da9a3ae4b0">Binary Image Processing</a></td>
-            <td><a href="https://github.com/nitinsandiego">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=nitinsandiego">Workflow</a>
+            <td><a href="https://github.com/nitinsandiego">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=nitinsandiego">Workflow</a></td>
         </tr>
         <tr>
-        <td>Nitin Balaji</td>
+          <td>Akshay Nagesh</td>
             <td>TBD</td>
-            <td><a href="https://nitinsandiego.github.io/binarycptproject//2023/11/26/Binary-Image-Processing.html">Image Processing</a></td>
-            <td><video  height="200" controls>
-            <source src="/binarycptproject/videos/BinaryImageProcessing.mp4" type="video/mp4">
+            <td><a href="https://nitinsandiego.github.io/binarycptproject//2023/11/28/Binary-Logical-Operations.html">Binary Logical Operations</a></td>
+            <td><video  height="200" controls><source src="/binarycptproject/videos/Binary_Logical_Operators.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video></td>
-            <td><a href="https://github.com/nitinsandiego/binarycptproject/commit/412936d8051c934b6b2c65a11c3cd9da9a3ae4b0">Binary Image Processing</a></td>
-            <td><a href="https://github.com/nitinsandiego">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=nitinsandiego">Workflow</a>
+            <td><a href="https://github.com/nitinsandiego/binarycptproject/commit/0fd32e06d8b8a5499c574f92bad6babef433850f">Binary Logical Operators</a></td>
+            <td><a href="https://github.com/AkshayNagesh">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=AkshayNagesh">Workflow</a></td>
+        </tr>
+        <tr>
+          <td>Ishan Cornick</td>
+            <td>TBD</td>
+            <td><a href="https://nitinsandiego.github.io/binarycptproject//2023/11/30/Binary-Guessing-Game.html">Binary Guessing Game</a></td>
+            <td><video  height="200" controls>
+            <source src="/binarycptproject/videos/BinaryNumberGuessingGame.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+            </video></td>
+            <td>Error</td>
+            <td><a href="https://github.com/IshanCornick">Profile</a></td>
+        </tr>
+        <tr>
+          <td>Saathvik Gampa</td>
+            <td>TBD</td>
+            <td><a href="https://nitinsandiego.github.io/binarycptproject//2023/11/26/Binary-Encryption.html">Binary Encryption</a></td>
+            <td><video  height="200" controls>
+            <source src="/binarycptproject/videos/BinaryNumberGuessingGame.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+            </video></td>
+            <td>Error</td>
+            <td><a href="https://github.com/SGTech08">Profile</a></td>
         </tr>
     </tbody>
 </table>
-
 <script src="https://utteranc.es/client.js"
         repo="[binarycptproject]"
         issue-term="pathname"
