@@ -160,3 +160,19 @@ for (let i = 0; i < data.length; i += 4) {
 }
 ```
 It subtracts each color component (Red, Green, Blue) from 255, effectively creating a color negative.
+
+# If I had more time
+If I had more time I would add...
+
+    A more user-interactive interface
+
+    Include some more features that display conversions of Binary Image Processing
+
+    Talk more about how the conversions work and give more details about this topic
+
+# Problems I cam across
+    My conversions wouldn't work many, like converting to binary or reversing the hex. I had to debug the code and look at was wrong.
+
+    Figuring the conversion between regular pixels and binary
+
+    Figuring out how to reverse the pixels. 
