@@ -44,9 +44,26 @@ courses: {'compsci': {'week': 2}}
             Your browser does not support the video tag.
             </video></td>
             <td><a href="https://github.com/nitinsandiego/binarycptproject/commit/412936d8051c934b6b2c65a11c3cd9da9a3ae4b0">Binary Image Processing</a></td>
-            <td><a href="https://github.com/trevorhuang1">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=nitinsandiego">Workflow</a>
+            <td><a href="https://github.com/nitinsandiego">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=nitinsandiego">Workflow</a>
         </tr>
         <tr>
+        <td>Nitin Balaji</td>
+            <td>TBD</td>
+            <td><a href="https://nitinsandiego.github.io/binarycptproject//2023/11/26/Binary-Image-Processing.html">Image Processing</a></td>
+            <td><video  height="200" controls>
+            <source src="/binarycptproject/videos/BinaryImageProcessing.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+            </video></td>
+            <td><a href="https://github.com/nitinsandiego/binarycptproject/commit/412936d8051c934b6b2c65a11c3cd9da9a3ae4b0">Binary Image Processing</a></td>
+            <td><a href="https://github.com/nitinsandiego">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=nitinsandiego">Workflow</a>
         </tr>
     </tbody>
 </table>
+
+<script src="https://utteranc.es/client.js"
+        repo="[binarycptproject]"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
