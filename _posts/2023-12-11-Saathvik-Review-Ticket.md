@@ -115,3 +115,18 @@ Your browser does not support the video tag.
 ## Guessing Decryption
 - The checkDecryptGuess function is triggered when the "Check Decryption Guess" button is clicked.
 - It compares the user's guess (entered text) with the stored decrypted result, providing feedback on correctness.
+
+## If I had more time
+If I had more time I would add....
+
+    A better design
+
+    More friendly UI.
+
+    Progress Bar for the user
+
+    Have an intro that shows how binary works.
+
+## Problems I came accross
+    My "Play Again" button wouldnt work, fixed this with help of my classmates, teammates and internet.
+    Figuring out how to calculate the binary value, to do this I used the help of ChatGPT.
