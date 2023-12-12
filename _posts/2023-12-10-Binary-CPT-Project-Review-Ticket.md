@@ -42,10 +42,7 @@ courses: {'compsci': {'week': 2}}
             <source src="/binarycptproject/videos/BinaryImageProcessing.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video></td>
-<<<<<<< HEAD
             <td><a href="https://nitinsandiego.github.io/binarycptproject/2023/12/10/Nitin-Review-Ticket.html">Individual</a></td>
-=======
->>>>>>> 66a59090a09c97e8b7a1619c81930f04b1a564b2
             <td><a href="https://github.com/nitinsandiego">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=nitinsandiego">Workflow</a></td>
         </tr>
         <tr>
