@@ -105,9 +105,13 @@ The game flow involves users guessing binary numbers, receiving feedback, and re
 
 ## If I had more time
 If I had more time I would add....
+
     A bigger range of number.
+
     More friendly UI.
+
     Include more features in the game.
+
     Have an intro that shows how binary works.
 
 ## Problems I came accross
