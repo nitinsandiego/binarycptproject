@@ -13,6 +13,9 @@ courses: {'compsci': {'week': 2}}
     <source src="/binarycptproject/videos/BinaryImageProcessing.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+
+<a href="https://nitinsandiego.github.io/binarycptproject//2023/11/26/Binary-Image-Processing.html">Image Processing</a>
+
 ```html
 <html lang="en">
 <head>
