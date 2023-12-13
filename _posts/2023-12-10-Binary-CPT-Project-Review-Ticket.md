@@ -30,7 +30,7 @@ courses: {'compsci': {'week': 2}}
             Your browser does not support the video tag.
             </video></td>
             <td><a href="https://github.com/nitinsandiego">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=nitinsandiego">Workflow</a></td>
-            <td><a href="https://github.com/nitinsandiego/binarycptproject/issues/4#issuecomment-1852624579">Score: 0.87</a></td>
+            <td><a href="https://github.com/nitinsandiego/binarycptproject/issues/4#issuecomment-1852624579">Score: 0.83</a></td>
         </tr>
         <tr>
           <td>Akshay Nagesh</td>
