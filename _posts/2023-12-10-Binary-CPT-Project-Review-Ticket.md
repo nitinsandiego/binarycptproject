@@ -48,7 +48,7 @@ courses: {'compsci': {'week': 2}}
             <source src="/binarycptproject/videos/BinaryNumberGuessingGame.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video></td>
-            <td><a href="https://github.com/IshanCornick">Profile</a></td>
+            <td><a href="https://github.com/IshanCornick">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=IshanCornick">Workflow</a></td>
             <td><a href="https://github.com/nitinsandiego/binarycptproject/issues/2#issuecomment-1852623575">Score: 0.79</a></td>
         </tr>
         <tr>
@@ -58,7 +58,7 @@ courses: {'compsci': {'week': 2}}
             <source src="/binarycptproject/videos/BinaryNumberGuessingGame.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video></td>
-            <td><a href="https://github.com/SGTech08">Profile</a></td>
+            <td><a href="https://github.com/SGTech08">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=SGTech08">Workflow</a></td>
             <td><a href="https://github.com/nitinsandiego/binarycptproject/issues/5#issuecomment-1852725276">Score: 0.81</a></td>
         </tr>
     </tbody>
