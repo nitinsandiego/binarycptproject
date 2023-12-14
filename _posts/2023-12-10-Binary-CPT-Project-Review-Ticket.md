@@ -25,14 +25,14 @@ courses: {'compsci': {'week': 2}}
         </tr>
         <tr>
             <td>Nitin Balaji</td>
-            <td>0.87 + 0.83</td>
+            <td>0.87 + 0.87 + 0.06 = 1.8</td>
             <td><a href="https://nitinsandiego.github.io/binarycptproject//2023/11/26/Binary-Image-Processing.html">Image Processing</a></td>
             <td><video  height="200" controls>
             <source src="/binarycptproject/videos/BinaryImageProcessing.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video></td>
             <td><a href="https://github.com/nitinsandiego">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=nitinsandiego">Workflow</a></td>
-            <td><a href="https://github.com/nitinsandiego/binarycptproject/issues/4#issuecomment-1852624579">Score: 0.83</a></td>
+            <td><a href="https://github.com/nitinsandiego/binarycptproject/issues/4#issuecomment-1852624579">Score: 0.87</a></td>
         </tr>
         <tr>
           <td>Akshay Nagesh</td>
@@ -46,14 +46,14 @@ courses: {'compsci': {'week': 2}}
         </tr>
         <tr>
           <td>Ishan Cornick</td>
-          <td>0.87 + 0.81</td>
+          <td>0.87 + 0.85</td>
             <td><a href="https://nitinsandiego.github.io/binarycptproject//2023/11/30/Binary-Guessing-Game.html">Binary Guessing Game</a></td>
             <td><video  height="200" controls>
             <source src="/binarycptproject/videos/BinaryNumberGuessingGame.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video></td>
             <td><a href="https://github.com/IshanCornick">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=IshanCornick">Workflow</a></td>
-            <td><a href="https://github.com/nitinsandiego/binarycptproject/issues/2#issuecomment-1852623575">Score: 0.81</a></td>
+            <td><a href="https://github.com/nitinsandiego/binarycptproject/issues/2#issuecomment-1852623575">Score: 0.85</a></td>
         </tr>
         <tr>
           <td>Saathvik Gampa</td>
