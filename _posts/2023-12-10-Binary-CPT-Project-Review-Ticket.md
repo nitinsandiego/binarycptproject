@@ -60,7 +60,7 @@ courses: {'compsci': {'week': 2}}
           <td>0.87 + 0.81</td>
             <td><a href="https://nitinsandiego.github.io/binarycptproject//2023/11/26/Binary-Encryption.html">Binary Encryption</a></td>
             <td><video  height="200" controls>
-            <source src="/binarycptproject/videos/BinaryNumberGuessingGame.mp4" type="video/mp4">
+            <source src="/binarycptproject/videos/BinaryEncryption.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video></td>
             <td><a href="https://github.com/SGTech08">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=SGTech08">Workflow</a></td>
