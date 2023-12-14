@@ -49,7 +49,7 @@ courses: {'compsci': {'week': 2}}
             Your browser does not support the video tag.
             </video></td>
             <td><a href="https://github.com/IshanCornick">Profile</a>,<a href="https://github.com/nitinsandiego/binarycptproject/commits/main/?author=IshanCornick">Workflow</a></td>
-            <td><a href="https://github.com/nitinsandiego/binarycptproject/issues/2#issuecomment-1852623575">Score: 0.79</a></td>
+            <td><a href="https://github.com/nitinsandiego/binarycptproject/issues/2#issuecomment-1852623575">Score: 0.81</a></td>
         </tr>
         <tr>
           <td>Saathvik Gampa</td>
